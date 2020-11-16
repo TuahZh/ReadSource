@@ -1,2 +1,1 @@
 # ReadSource
-subproject of SpiderReader
